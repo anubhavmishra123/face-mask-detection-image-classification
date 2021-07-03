@@ -6,6 +6,7 @@ Data collection and preprocessing
 Three different CNN architectures are used to implement face mask detection. For this task dataset images having masked and unmasked faces were collected from Face Mask detection dataset by Larxel on Kaggle. In the data pre-processing step, each image is read and vectorized. After that each image is resized (100 X 100) and images are converted to greyscale
 
 CNN Models trained
+
 <img src="https://github.com/anubhavmishra123/face-mask-detection-image-classification-raspberry-pi/blob/main/compare.png" width="500" height="700" >
 
 Raspberry Pi 

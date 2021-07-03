@@ -6,18 +6,18 @@ Data collection and preprocessing
 Three different CNN architectures are used to implement face mask detection. For this task dataset images having masked and unmasked faces were collected from Face Mask detection dataset by Larxel on Kaggle. In the data pre-processing step, each image is read and vectorized. After that each image is resized (100 X 100) and images are converted to greyscale
 
 CNN Models trained
-<img src="https://github.com/anubhavmishra123/face-mask-detection-image-classification-raspberry-pi/blob/main/compare.png" width="400" height="800" >
+<img src="https://github.com/anubhavmishra123/face-mask-detection-image-classification-raspberry-pi/blob/main/compare.png" width="500" height="700" >
 
 Raspberry Pi 
 
-<img src="https://github.com/anubhavmishra123/face-mask-detection-image-classification-raspberry-pi/blob/main/raspberry.png" width="300" height="300" >
+<img src="https://github.com/anubhavmishra123/face-mask-detection-image-classification-raspberry-pi/blob/main/raspberry.png" width="400" height="300" >
 
 Project setup
 
-<img src="https://github.com/anubhavmishra123/face-mask-detection-image-classification-raspberry-pi/blob/main/diagram.png" width="300" height="300" >
+<img src="https://github.com/anubhavmishra123/face-mask-detection-image-classification-raspberry-pi/blob/main/diagram.png" width="400" height="300" >
 
 Screenshots
 
-<img src="https://github.com/anubhavmishra123/face-mask-detection-image-classification-raspberry-pi/blob/main/ss.png" width="300" height="300" >
+<img src="https://github.com/anubhavmishra123/face-mask-detection-image-classification-raspberry-pi/blob/main/ss.png" width="300" height="200" >
 
-<img src="https://github.com/anubhavmishra123/face-mask-detection-image-classification-raspberry-pi/blob/main/ss2.png" width="300" height="300" >
+<img src="https://github.com/anubhavmishra123/face-mask-detection-image-classification-raspberry-pi/blob/main/ss2.png" width="300" height="200" >
